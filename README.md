@@ -5,6 +5,10 @@ Evaluación recuperatoria NodeJS
 Estudiante: David Rios
 CI: 6141519 LP
 
+Ejecutar 
+
+npm install
+
 Ejemplo, metodo POST
 
 http://127.0.0.1:3030/api/multiplicacion/8
